@@ -1,5 +1,6 @@
 import React from "react";
 import { Routes, Route } from "react-router-dom";
+import { ToastContainer } from "react-toastify";
 
 import Header from "./components/Header";
 import Footer from "./components/Footer";
@@ -10,7 +11,7 @@ import Search from "./pages/Search";
 import Tour from "./pages/Tour";
 
 const Home = () => (
-  <>
+  <> 
     <Hero />
     <About />
   </>
@@ -27,6 +28,7 @@ const App = () => (
         </Routes>
       </main>
     <Footer />
+    <ToastContainer position="top-center" theme="dark" autoClose={3000} /> 
   </>
 );
 
