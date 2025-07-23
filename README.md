@@ -12,9 +12,6 @@
 <img width="1919" height="905" alt="image" src="https://github.com/user-attachments/assets/c7a8c0d2-e492-4ac6-8244-9eb97d77af60" />
 
 # 🎥 Video Demo
-
-[![Watch the video demo](thumbnail.png)](https://drive.google.com/file/d/1EHNigw9Rwrrsr8RFlzrl6kS6SbEEzbO9/view?usp=drive_link)
-
 🔗 [Click here to watch the video](https://drive.google.com/file/d/1EHNigw9Rwrrsr8RFlzrl6kS6SbEEzbO9/view?usp=drive_link)
 
 
