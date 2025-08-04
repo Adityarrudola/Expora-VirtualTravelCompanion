@@ -4,7 +4,8 @@
 
 ---
 # Flow - Diagram
-<img width="9000" height="5000" alt="Expora-VirtualTravelCompanion" src="https://github.com/user-attachments/assets/e9858ae4-9b2b-44f3-be94-61d1aefa1226" />
+<img width="4833" height="2816" alt="Expora-VirtualTravelCompanion" src="https://github.com/user-attachments/assets/880187df-c49e-45f7-822d-cc3796f701a1" />
+
 
 
 
