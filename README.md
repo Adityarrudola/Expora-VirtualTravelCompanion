@@ -4,7 +4,8 @@
 
 ---
 # Flow - Diagram
-<img width="1556" height="805" alt="image" src="https://github.com/user-attachments/assets/68e02e94-d632-473d-b950-883c77cea8dc" />
+<img width="1094" height="570" alt="image" src="https://github.com/user-attachments/assets/9aea46a0-edc4-4ec9-9892-ea78fd072b83" />
+
 
 # Demo
 <img width="1920" height="987" alt="sScreenshot (132)" src="https://github.com/user-attachments/assets/80605f9e-3976-47cc-97e4-7c9ea9437c71" />
